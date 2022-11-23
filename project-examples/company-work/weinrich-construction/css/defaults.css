@@ -1,0 +1,96 @@
+/* Nav Bar Styles */
+#hours {
+  color: rgb(250, 235, 215);
+}
+
+nav {
+  border-bottom: 2px solid rgb(255, 225, 0);
+}
+/* Main Page / Header Styles */
+main {
+  background-color: darkslategray;
+}
+
+.page-section {
+  padding: 8rem 0;
+}
+
+/* Sections Styles */
+.section-style-1 {
+  background-color: rgba(29, 29, 29, 0.551);
+  background-image: url("../imgs/section1.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
+  border-bottom: 2px solid rgb(255, 225, 0);
+}
+
+.section-style-2 {
+  background-color: rgba(22, 22, 22, 0.859);
+  background-image: url("../imgs/background-texture-1.jpg");
+  background-size: 100% 100%;
+  background-blend-mode: color-burn;
+  border-bottom: 2px solid rgb(255, 225, 0);
+}
+
+.section-style-3 {
+  background-color: rgba(30, 28, 28, 0.823);
+  background-image: url("../imgs/background-texture-2.jpg");
+  background-size: 100% 100%;
+  background-blend-mode: color-burn;
+  border-bottom: 2px solid rgb(255, 225, 0);
+}
+
+/* Text Colors */
+.text-color-white {
+  color: white;
+  text-shadow: 4px 4px 7px rgba(0, 0, 0, 0.6);
+}
+
+.custom-link {
+  color: rgb(255, 187, 0);
+}
+.custom-link:hover,
+.custom-link:focus {
+  color: rgb(255, 166, 0);
+}
+
+/* Fonts */
+.name-font-1 {
+  font-family: "Bad Script", cursive;
+  color: rgb(255, 153, 0);
+}
+.name-font-2 {
+  font-family: "Wallpoet", cursive;
+  color: rgb(255, 153, 0);
+}
+.name-font-3 {
+  font-family: "Wallpoet", cursive;
+  color: rgb(255, 255, 255);
+}
+.name-font-4 {
+  font-family: "Bad Script", cursive;
+  color: rgb(255, 149, 0);
+}
+.name-font-5 {
+  font-family: 'Courgette', cursive;
+  color: rgb(255, 149, 0);
+}
+/* Line Break Styles */
+.line-break-1 {
+  border-color: rgb(255, 225, 0);
+  border-width: 3px;
+  opacity: 100%;
+}
+
+/* Custom BTNs */
+.btn-orange {
+  background-color: rgb(255, 187, 0);
+  color: white;
+  text-shadow: 1px 3px 4px rgb(0, 0, 0);
+}
+.btn-orange:hover {
+  background-color: rgb(255, 166, 0) !important;
+  color: white !important;
+  text-shadow: 1px 3px 4px rgb(0, 0, 0);
+}
