@@ -1,7 +1,0 @@
-.bg-textured-dark {
-  background-color: rgba(0, 0, 0, 0.781);
-  background-image: url("../../../public/imgs/texture2.jpg");
-  background-size: cover;
-  background-blend-mode: color-burn;
-  border-bottom: 4px solid rgb(0, 0, 255);
-}
